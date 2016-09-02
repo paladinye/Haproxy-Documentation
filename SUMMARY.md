@@ -1,7 +1,16 @@
 # Summary
 
 * [Introduction](README.md)
-* [Management](management.md)
-* [Starter Guid](starter-guid.md)
-* [Configuration](configuration.md)
+* [Starter Guide](starter-guid.md)
+* [Configuration-Manual](management.md)
+    * 1.Quick reminder about HTTP
+        * [1.1. The HTTP transaction model](11-the-http-transaction-model.md)
+        * [1.2. HTTP request](12-http-request.md)
+            * [1.2.1. The Request line](121-the-request-line.md)
+            * [1.2.2. The request headers](122-the-request-headers.md)
+        * [1.3. HTTP response](13-http-response.md)
+            * [1.3.1. The Response line](131-the-response-line.md)
+            * [1.3.2. The response headers](132-the-response-headers.md)
+* [Management-Guide](configuration.md)
+* Architecture-Manual
 
