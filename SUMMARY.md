@@ -1,8 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* Management
-* Starter Guid
-* Configuration
+* [Management](management.md)
+* [Starter Guid](starter-guid.md)
+* [Configuration](configuration.md)
 
