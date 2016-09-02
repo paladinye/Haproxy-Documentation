@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Starter Guide](starter-guide.md)
+* [Starter-Guide](starter-guide.md)
 * [Configuration-Manual](configuration-manual.md)
     * [1.Quick reminder about HTTP](1quick-reminder-about-http.md)
         * [1.1. The HTTP transaction model](11-the-http-transaction-model.md)
