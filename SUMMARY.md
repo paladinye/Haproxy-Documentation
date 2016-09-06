@@ -11,6 +11,7 @@
         * [1.3. HTTP response](13-http-response.md)
             * [1.3.1. The Response line](13-http-response.md)
             * [1.3.2. The response headers](13-http-response.md)
+    * 2. Configuring HAProxy
 * [Management-Guide](management-guide.md)
 * Architecture-Manual
 
