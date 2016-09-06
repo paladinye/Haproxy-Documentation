@@ -19,11 +19,11 @@
         * [2.5.Examples](25examples.md)
     * [3.Global parameters](3global-parameters.md)
         * [3.1.Process management and security](31process-management-and-security.md)
-        * 3.2.Performance tuning
-        * 3.3.Debugging
-        * 3.4.Userlists
-        * 3.5.Peers
-        * 3.6.Mailers
+        * [3.2.Performance tuning](32performance-tuning.md)
+        * [3.3.Debugging](33debugging.md)
+        * [3.4.Userlists](34userlists.md)
+        * [3.5.Peers](35peers.md)
+        * [3.6.Mailers](36mailers.md)
 * [Management-Guide](management-guide.md)
 * Architecture-Manual
 
