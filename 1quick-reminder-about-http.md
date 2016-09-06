@@ -1,3 +1,3 @@
-test
-test0
-test1
+- 当haproxy运行在http模式下，所有的request和response都能被完全的分析和索引，因此可以通过构建条件来匹配传输过程中的任意内容。
+- 所以，理解http requests和response的内容以及haproxy如何分析他们就变得非常重要，它让你更容易的写出正确的规则以及debug存在的配置。
+
