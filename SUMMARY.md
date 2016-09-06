@@ -12,11 +12,11 @@
             * [1.3.1. The Response line](13-http-response.md)
             * [1.3.2. The response headers](13-http-response.md)
     * [2.Configuring HAProxy](2configuring-haproxy.md)
-        * 2.1.Configuration file format
-        * 2.2.Quoting and escaping
-        * 2.3.Environment variables
-        * 2.4.Time format
-        * 2.5.Examples
+        * [2.1.Configuration file format](21configuration-file-format.md)
+        * [2.2.Quoting and escaping](22quoting-and-escaping.md)
+        * [2.3.Environment variables](23environment-variables.md)
+        * [2.4.Time format](24time-format.md)
+        * [2.5.Examples](25examples.md)
 * [Management-Guide](management-guide.md)
 * Architecture-Manual
 
