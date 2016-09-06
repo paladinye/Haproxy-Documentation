@@ -17,6 +17,13 @@
         * [2.3.Environment variables](23environment-variables.md)
         * [2.4.Time format](24time-format.md)
         * [2.5.Examples](25examples.md)
+    * [3.Global parameters](3global-parameters.md)
+        * [3.1.Process management and security](31process-management-and-security.md)
+        * 3.2.Performance tuning
+        * 3.3.Debugging
+        * 3.4.Userlists
+        * 3.5.Peers
+        * 3.6.Mailers
 * [Management-Guide](management-guide.md)
 * Architecture-Manual
 
