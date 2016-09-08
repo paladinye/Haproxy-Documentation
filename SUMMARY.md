@@ -24,6 +24,9 @@
         * [3.4.Userlists](34userlists.md)
         * [3.5.Peers](35peers.md)
         * [3.6.Mailers](36mailers.md)
+    * [4.Proxies](4proxies.md)
+        * [4.1.Proxy keywords matrix](41proxy-keywords-matrix.md)
+        * [4.2.Alphabetically sorted keywords reference](42alphabetically-sorted-keywords-reference.md)
 * [Management-Guide](management-guide.md)
 * Architecture-Manual
 
